@@ -17,6 +17,7 @@ download on relese tab
 - set as you want 
 - save
 - and lets Start Bot
+
 # Force Unban
 - If Your bot always Show got away / cant catch pokemon
 - Click Force Unban
